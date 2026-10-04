@@ -12,7 +12,7 @@ I'm an Information Systems student interested in **software development, network
 
 ### <i>— Programming & Development</i>
 
-![Java](https://img.shields.io/badge/Java-4A90E2?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-AB274F?style=for-the-badge\&logo=openjdk\&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-003153?style=for-the-badge\&logo=php\&logoColor=white)
@@ -30,7 +30,7 @@ I'm an Information Systems student interested in **software development, network
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge\&logo=python\&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-FF004F?style=for-the-badge\&logo=python\&logoColor=white)
 
 ### <i>— Creative Skills</i>
 
