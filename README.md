@@ -1,10 +1,10 @@
 # Hey, I'm Anzei 👋
 
-### `Information Systems Student` · `Software & Systems Enthusiast`
+### `Information Systems Student` · `Software & Computer Science Enthusiast`
+**<i>—Joat, Mon</i>**
+> **<i>Still learning, still building, still figuring things out.</i>**
 
-> **Building systems, learning technology, and figuring things out along the way.**
-
-I'm an Information Systems student interested in **software development, networking, data, and system analysis**.
+I'm an Information Systems student interested in **software development, networking, data, system analysis, and little bit design**.
 
 ---
 
