@@ -15,13 +15,13 @@ I'm an Information Systems student interested in **software development, network
 ![Java](https://img.shields.io/badge/Java-4A90E2?style=for-the-badge\&logo=openjdk\&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-BB86FC?style=for-the-badge\&logo=php\&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-003153?style=for-the-badge\&logo=php\&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge\&logo=laravel\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-F2C94C?style=for-the-badge\&logo=mysql\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-FF7538?style=for-the-badge\&logo=mysql\&logoColor=white)
 
 ### <i>— Systems & Networking</i>
 
-![Cisco](https://img.shields.io/badge/Cisco-00B8E6?style=for-the-badge\&logo=cisco\&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-003262?style=for-the-badge\&logo=cisco\&logoColor=white)
 ![MikroTik](https://img.shields.io/badge/MikroTik-293239?style=for-the-badge\&logo=mikrotik\&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
@@ -34,8 +34,8 @@ I'm an Information Systems student interested in **software development, network
 
 ### <i>— Creative Skills</i>
 
-![After Effects](https://img.shields.io/badge/After%20Effects-9B7CFF?style=for-the-badge\&logo=adobeaftereffects\&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-FF6FAE?style=for-the-badge\&logo=figma\&logoColor=white)
+![After Effects](https://img.shields.io/badge/After%20Effects-002387?style=for-the-badge\&logo=adobeaftereffects\&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-006D6F?style=for-the-badge\&logo=figma\&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge\&logo=wordpress\&logoColor=white)
 
 ---
