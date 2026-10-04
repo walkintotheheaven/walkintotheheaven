@@ -62,21 +62,52 @@ I'm an Information Systems student interested in **software development, network
 </div>
 
 ---
+
 ## 🎵 Music
 
 > *Good code, better music.*
 
-![Coldplay](https://img.shields.io/badge/Coldplay-0046D1?style=for-the-badge\&logo=musicbrainz\&logoColor=white)
-![The Marías](https://img.shields.io/badge/The%20Marías-0046D1?style=for-the-badge\&logo=spotify\&logoColor=white)
-![Laufey](https://img.shields.io/badge/Laufey-0046D1?style=for-the-badge\&logo=spotify\&logoColor=white)
-![The Beatles](https://img.shields.io/badge/The%20Beatles-0046D1?style=for-the-badge\&logo=spotify\&logoColor=white)
-![Ed Sheeran](https://img.shields.io/badge/Ed%20Sheeran-0046D1?style=for-the-badge\&logo=spotify\&logoColor=white)
+<div align="center">
+
+<a href="https://open.spotify.com/playlist/5AbIhKPZSljbGWacz8iZA9">
+<img src="https://img.shields.io/badge/🎧%20My%20Spotify%20Playlist-1DB954?style=for-the-badge&logo=spotify&logoColor=white">
+</a>
+
+<br><br>
+
+![The Strokes](https://img.shields.io/badge/The%20Strokes-E63946?style=for-the-badge)
+![Olivia Dean](https://img.shields.io/badge/Olivia%20Dean-C084FC?style=for-the-badge)
+![Laufey](https://img.shields.io/badge/Laufey-89B4FA?style=for-the-badge)
+![The Marías](https://img.shields.io/badge/The%20Marías-F38BA8?style=for-the-badge)
+![Sydney Rose](https://img.shields.io/badge/Sydney%20Rose-A6E3A1?style=for-the-badge)
+![Keane](https://img.shields.io/badge/Keane-74C7EC?style=for-the-badge)
+![Wasia Project](https://img.shields.io/badge/Wasia%20Project-FAB387?style=for-the-badge)
+
+<br>
+
+![LP](https://img.shields.io/badge/LP-F9C74F?style=for-the-badge)
+![Vashti Bunyan](https://img.shields.io/badge/Vashti%20Bunyan-B8C0FF?style=for-the-badge)
+![Mad Honey](https://img.shields.io/badge/Mad%20Honey-FF7B72?style=for-the-badge)
+![John Mayer](https://img.shields.io/badge/John%20Mayer-5DADE2?style=for-the-badge)
+![Dido](https://img.shields.io/badge/Dido-A78BFA?style=for-the-badge)
+![Eminem](https://img.shields.io/badge/Eminem-64748B?style=for-the-badge)
+![The Midnight Darlings](https://img.shields.io/badge/The%20Midnight%20Darlings-FB7185?style=for-the-badge)
+
+</div>
 
 ---
 
 ## 🌐 Connect
 
-[![GitHub](https://img.shields.io/badge/GitHub-0046D1?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/YOUR_USERNAME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0046D1?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
-[![Behance](https://img.shields.io/badge/Behance-0046D1?style=for-the-badge\&logo=behance\&logoColor=white)](https://behance.net/YOUR_USERNAME)
-[![Instagram](https://img.shields.io/badge/Instagram-0046D1?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/YOUR_USERNAME)
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181825?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
+[![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge\&logo=behance\&logoColor=white)](https://behance.net/YOUR_USERNAME)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/YOUR_USERNAME)
+
+<br>
+
+### `Thanks for stopping by. 👋`
+
+</div>
