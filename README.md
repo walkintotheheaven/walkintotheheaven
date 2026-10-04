@@ -51,7 +51,7 @@ I'm an Information Systems student interested in **software development, network
 
 ---
 
-## 📊 GitHub
+## ◈ GitHub
 
 <div align="center">
 
@@ -97,7 +97,7 @@ I'm an Information Systems student interested in **software development, network
 
 ---
 
-## 🌐 Connect
+## 🎭 Connect
 
 <div align="center">
 
