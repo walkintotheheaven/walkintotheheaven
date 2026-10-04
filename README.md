@@ -55,9 +55,9 @@ I'm an Information Systems student interested in **software development, network
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=walkintotheheaven&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165">
+<img src="https://github-readme-stats.vercel.app/api?username=walkintotheheaven&show_icons=true&bg_color=0D1117&title_color=4A90E2&text_color=C9D1D9&icon_color=9B7CFF&border_color=30363D&hide_border=false&count_private=true" height="165">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=walkintotheheaven&layout=compact&theme=tokyonight&hide_border=true" height="165">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=walkintotheheaven&layout=compact&bg_color=0D1117&title_color=4A90E2&text_color=C9D1D9&border_color=30363D&hide_border=false" height="165">
 
 </div>
 
