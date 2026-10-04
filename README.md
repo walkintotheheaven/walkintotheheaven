@@ -75,25 +75,24 @@ I'm an Information Systems student interested in **software development, network
 
 <br><br>
 
-![The Strokes](https://img.shields.io/badge/The%20Strokes-E63946?style=for-the-badge)
-![Olivia Dean](https://img.shields.io/badge/Olivia%20Dean-B57EDC?style=for-the-badge)
-![Laufey](https://img.shields.io/badge/Laufey-4A7BB0?style=for-the-badge)
-![The Marías](https://img.shields.io/badge/The%20Marías-FF5376?style=for-the-badge)
-![Sydney Rose](https://img.shields.io/badge/Sydney%20Rose-5BB381?style=for-the-badge)
-![Keane](https://img.shields.io/badge/Keane-3A9BDC?style=for-the-badge)
-![Wasia Project](https://img.shields.io/badge/Wasia%20Project-FAA259?style=for-the-badge)
+![The Strokes](https://img.shields.io/badge/The%20Strokes-FFC40C?style=for-the-badge)
+![Olivia Dean](https://img.shields.io/badge/Olivia%20Dean-6050DC?style=for-the-badge)
+![Laufey](https://img.shields.io/badge/Laufey-EFDECD?style=for-the-badge)
+![The Marías](https://img.shields.io/badge/The%20Marías-0000B8?style=for-the-badge)
+![Sydney Rose](https://img.shields.io/badge/Sydney%20Rose-C2B280?style=for-the-badge)
+![Keane](https://img.shields.io/badge/Keane-6C541E?style=for-the-badge)
+![Wasia Project](https://img.shields.io/badge/Wasia%20Project-2A3439?style=for-the-badge)
 
-<br>
-
-![LP](https://img.shields.io/badge/LP-F3C63F?style=for-the-badge)
-![Vashti Bunyan](https://img.shields.io/badge/Vashti%20Bunyan-94A3D3?style=for-the-badge)
-![Mad Honey](https://img.shields.io/badge/Mad%20Honey-FF6B5B?style=for-the-badge)
-![John Mayer](https://img.shields.io/badge/John%20Mayer-4EA8DE?style=for-the-badge)
-![Dido](https://img.shields.io/badge/Dido-8B70CF?style=for-the-badge)
-![Eminem](https://img.shields.io/badge/Eminem-536273?style=for-the-badge)
-![The Midnight Darlings](https://img.shields.io/badge/The%20Midnight%20Darlings-FF6584?style=for-the-badge)
+![LP](https://img.shields.io/badge/LP-2F4F4F?style=for-the-badge)
+![Vashti Bunyan](https://img.shields.io/badge/Vashti%20Bunyan-B2BEB5?style=for-the-badge)
+![Mad Honey](https://img.shields.io/badge/Mad%20Honey-468FEA?style=for-the-badge)
+![John Mayer](https://img.shields.io/badge/John%20Mayer-B9D9EB?style=for-the-badge)
+![Dido](https://img.shields.io/badge/Dido-E0AB76?style=for-the-badge)
+![Eminem](https://img.shields.io/badge/Eminem-3D0C02?style=for-the-badge)
+![The Midnight Darlings](https://img.shields.io/badge/The%20Midnight%20Darlings-800020?style=for-the-badge)
 
 </div>
+
 
 ---
 
