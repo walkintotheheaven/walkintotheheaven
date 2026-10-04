@@ -1,4 +1,4 @@
-# Hey, I'm Anzei 👋
+# Yoo, I'm Pasha Agatha. 👋
 
 ### `Information Systems Student` · `Software, Data & Computational Science Enthusiast`
 **<i>—Joat, Mon</i>**
@@ -35,8 +35,8 @@ I'm an Information Systems student interested in **software development, network
 ### <i>— Creative Skills</i>
 
 ![After Effects](https://img.shields.io/badge/After%20Effects-002387?style=for-the-badge\&logo=adobeaftereffects\&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-1B4D3E?style=for-the-badge\&logo=figma\&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge\&logo=wordpress\&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-006D6Fstyle=for-the-badge\&logo=figma\&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-0047AB?style=for-the-badge\&logo=wordpress\&logoColor=white)
 
 ---
 
