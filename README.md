@@ -1,6 +1,6 @@
 # Hey, I'm Anzei 👋
 
-### `Information Systems Student` · `Software & Computer Science Enthusiast`
+### `Information Systems Student` · `Software, Data & Computational Science Enthusiast`
 **<i>—Joat, Mon</i>**
 > **<i>Still learning, still building, still figuring things out.</i>**
 
@@ -35,7 +35,7 @@ I'm an Information Systems student interested in **software development, network
 ### <i>— Creative Skills</i>
 
 ![After Effects](https://img.shields.io/badge/After%20Effects-002387?style=for-the-badge\&logo=adobeaftereffects\&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-006D6F?style=for-the-badge\&logo=figma\&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-1B4D3E?style=for-the-badge\&logo=figma\&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge\&logo=wordpress\&logoColor=white)
 
 ---
