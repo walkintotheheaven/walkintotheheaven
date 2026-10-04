@@ -35,7 +35,7 @@ I'm an Information Systems student interested in **software development, network
 ### <i>— Creative Skills</i>
 
 ![After Effects](https://img.shields.io/badge/After%20Effects-002387?style=for-the-badge\&logo=adobeaftereffects\&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-006D6Fstyle=for-the-badge\&logo=figma\&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-006D6F?style=for-the-badge\&logo=figma\&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-0047AB?style=for-the-badge\&logo=wordpress\&logoColor=white)
 
 ---
