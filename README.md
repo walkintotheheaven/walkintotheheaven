@@ -1,43 +1,45 @@
-# Hey, I'm Pasha Agatha 👋
+# Hey, I'm Anzei 👋
 
-### `Information Systems Student` · `Software & Computer Science Enthusiast`
-**<i>—JOAT, MON</i>**
-> **<i>Still learning, still building, still figuring things out.</i>**
+### `Information Systems Student` · `Software & Systems Enthusiast`
+
+> **Building systems, learning technology, and figuring things out along the way.**
 
 I'm an Information Systems student interested in **software development, networking, data, and system analysis**.
 
 ---
 
 ## ⚡ Tech Stack
+
 ### <i>— Programming & Development</i>
 
-![Java](https://img.shields.io/badge/Java-4A90E2?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3B82F6?style=for-the-badge\&logo=python\&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-7B61FF?style=for-the-badge\&logo=cplusplus\&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-B36BFF?style=for-the-badge\&logo=php\&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF4D5A?style=for-the-badge\&logo=laravel\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-E5B93D?style=for-the-badge\&logo=mysql\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-5382A1?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge\&logo=laravel\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
 
 ### <i>— Systems & Networking</i>
 
-![Cisco](https://img.shields.io/badge/Cisco-00B8E6?style=for-the-badge\&logo=cisco\&logoColor=white)
-![MikroTik](https://img.shields.io/badge/MikroTik-8B5CF6?style=for-the-badge\&logo=mikrotik\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-FF7043?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-C084FC?style=for-the-badge\&logo=github\&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-049FD9?style=for-the-badge\&logo=cisco\&logoColor=white)
+![MikroTik](https://img.shields.io/badge/MikroTik-293239?style=for-the-badge\&logo=mikrotik\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/Git-181717?style=for-the-badge\&logo=github\&logoColor=white)
 
 ### <i>— Data & Visualization</i>
 
-![Pandas](https://img.shields.io/badge/Pandas-4F8CFF?style=for-the-badge\&logo=pandas\&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-36C5F0?style=for-the-badge\&logo=numpy\&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-F4C542?style=for-the-badge\&logo=python\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge\&logo=python\&logoColor=white)
 
 ### <i>— Creative Skills</i>
 
-![After Effects](https://img.shields.io/badge/After%20Effects-9B7CFF?style=for-the-badge\&logo=adobeaftereffects\&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-FF6FAE?style=for-the-badge\&logo=figma\&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-38BDF8?style=for-the-badge\&logo=wordpress\&logoColor=white)
+![After Effects](https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge\&logo=adobeaftereffects\&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge\&logo=wordpress\&logoColor=white)
 
 ---
+
 ## 🚀 Featured Projects
 
 | Project            | Description                           | Tech                    |
@@ -48,7 +50,8 @@ I'm an Information Systems student interested in **software development, network
 | 🤖 **Asisten Asa** | Accessibility-focused digital concept | `UCD` `UI/UX`           |
 
 ---
-## 📂 GitHub
+
+## 📊 GitHub
 
 <div align="center">
 
@@ -59,6 +62,7 @@ I'm an Information Systems student interested in **software development, network
 </div>
 
 ---
+
 ## 🎵 Music
 
 > *Good code, better music.*
@@ -92,7 +96,8 @@ I'm an Information Systems student interested in **software development, network
 </div>
 
 ---
-## 🎭 Connect
+
+## 🌐 Connect
 
 <div align="center">
 
