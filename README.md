@@ -70,7 +70,7 @@ I'm an Information Systems student interested in **software development, network
 <div align="center">
 
 <a href="https://open.spotify.com/playlist/5AbIhKPZSljbGWacz8iZA9">
-<img src="https://img.shields.io/badge/🎧%20My%20Spotify%20Playlist-1DB954?style=for-the-badge&logo=spotify&logoColor=white">
+<img src="https://img.shields.io/badge/🎧%20My%20Spotify%20Playlist-00693E?style=for-the-badge&logo=spotify&logoColor=white">
 </a>
 
 <br><br>
