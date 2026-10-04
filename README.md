@@ -10,33 +10,33 @@ I'm an Information Systems student interested in **software development, network
 
 ## ⚡ Tech Stack
 
-### 💻 Programming & Development
+### <i>— Programming & Development</i>
 
-![Java](https://img.shields.io/badge/Java-0046D1?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-0046D1?style=for-the-badge\&logo=python\&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-0046D1?style=for-the-badge\&logo=cplusplus\&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-0046D1?style=for-the-badge\&logo=php\&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-0046D1?style=for-the-badge\&logo=laravel\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-0046D1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-5382A1?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge\&logo=laravel\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
 
-### 🌐 Systems & Networking
+### <i>— Systems & Networking</i>
 
-![Cisco](https://img.shields.io/badge/Cisco-0046D1?style=for-the-badge\&logo=cisco\&logoColor=white)
-![MikroTik](https://img.shields.io/badge/MikroTik-0046D1?style=for-the-badge\&logo=mikrotik\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-0046D1?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-0046D1?style=for-the-badge\&logo=github\&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-049FD9?style=for-the-badge\&logo=cisco\&logoColor=white)
+![MikroTik](https://img.shields.io/badge/MikroTik-293239?style=for-the-badge\&logo=mikrotik\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/Git-181717?style=for-the-badge\&logo=github\&logoColor=white)
 
-### 📊 Data & Visualization
+### <i>— Data & Visualization</i>
 
-![Pandas](https://img.shields.io/badge/Pandas-0046D1?style=for-the-badge\&logo=pandas\&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-0046D1?style=for-the-badge\&logo=numpy\&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-0046D1?style=for-the-badge\&logo=python\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge\&logo=python\&logoColor=white)
 
-### 🎨 Creative & Web
+### <i>— Creative Skills</i>
 
-![After Effects](https://img.shields.io/badge/After%20Effects-0046D1?style=for-the-badge\&logo=adobeaftereffects\&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-0046D1?style=for-the-badge\&logo=figma\&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-0046D1?style=for-the-badge\&logo=wordpress\&logoColor=white)
+![After Effects](https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge\&logo=adobeaftereffects\&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge\&logo=wordpress\&logoColor=white)
 
 ---
 
@@ -77,19 +77,19 @@ I'm an Information Systems student interested in **software development, network
 
 ![The Strokes](https://img.shields.io/badge/The%20Strokes-E63946?style=for-the-badge)
 ![Olivia Dean](https://img.shields.io/badge/Olivia%20Dean-C084FC?style=for-the-badge)
-![Laufey](https://img.shields.io/badge/Laufey-89B4FA?style=for-the-badge)
-![The Marías](https://img.shields.io/badge/The%20Marías-F38BA8?style=for-the-badge)
-![Sydney Rose](https://img.shields.io/badge/Sydney%20Rose-A6E3A1?style=for-the-badge)
-![Keane](https://img.shields.io/badge/Keane-74C7EC?style=for-the-badge)
-![Wasia Project](https://img.shields.io/badge/Wasia%20Project-FAB387?style=for-the-badge)
+![Laufey](https://img.shields.io/badge/Laufey-5B8DEF?style=for-the-badge)
+![The Marías](https://img.shields.io/badge/The%20Marías-FF6B9A?style=for-the-badge)
+![Sydney Rose](https://img.shields.io/badge/Sydney%20Rose-65C18C?style=for-the-badge)
+![Keane](https://img.shields.io/badge/Keane-36A9E1?style=for-the-badge)
+![Wasia Project](https://img.shields.io/badge/Wasia%20Project-F4A261?style=for-the-badge)
 
 <br>
 
-![LP](https://img.shields.io/badge/LP-F9C74F?style=for-the-badge)
-![Vashti Bunyan](https://img.shields.io/badge/Vashti%20Bunyan-B8C0FF?style=for-the-badge)
-![Mad Honey](https://img.shields.io/badge/Mad%20Honey-FF7B72?style=for-the-badge)
+![LP](https://img.shields.io/badge/LP-F4C542?style=for-the-badge)
+![Vashti Bunyan](https://img.shields.io/badge/Vashti%20Bunyan-9FA8DA?style=for-the-badge)
+![Mad Honey](https://img.shields.io/badge/Mad%20Honey-FF6B5E?style=for-the-badge)
 ![John Mayer](https://img.shields.io/badge/John%20Mayer-5DADE2?style=for-the-badge)
-![Dido](https://img.shields.io/badge/Dido-A78BFA?style=for-the-badge)
+![Dido](https://img.shields.io/badge/Dido-9B7EDE?style=for-the-badge)
 ![Eminem](https://img.shields.io/badge/Eminem-64748B?style=for-the-badge)
 ![The Midnight Darlings](https://img.shields.io/badge/The%20Midnight%20Darlings-FB7185?style=for-the-badge)
 
