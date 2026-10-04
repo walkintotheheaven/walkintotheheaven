@@ -100,10 +100,10 @@ I'm an Information Systems student interested in **software development, network
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181825?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/YOUR_USERNAME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
-[![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge\&logo=behance\&logoColor=white)](https://behance.net/YOUR_USERNAME)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/YOUR_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-181825?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/walkintotheheaven)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/pashaxierra)
+[![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge\&logo=behance\&logoColor=white)](https://behance.net/soon)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/pashaxophone)
 
 <br>
 
